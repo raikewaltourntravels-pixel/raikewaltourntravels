@@ -1,5 +1,5 @@
 export const whatsappNumber = '916262000219';
-export const siteUrl = 'https://avantikatravels.com';
+export const siteUrl = 'https://raikewaltourntravels.vercel.app';
 
 export function createWhatsAppUrl(packageTitle: string): string {
   const base = `https://wa.me/${whatsappNumber}`;
