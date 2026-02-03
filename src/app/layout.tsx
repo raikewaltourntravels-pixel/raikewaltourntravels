@@ -115,7 +115,7 @@ export const metadata: Metadata = {
     siteName: 'Raikewal Tour & Travel',
     images: [
       {
-        url: `${siteUrl}/images/logo2.png`,
+        url: `${siteUrl}/images/logo-with-bg.png`,
         width: 1200,
         height: 630,
         alt: 'Raikewal Tour & Travel - Car Rental with Driver',
@@ -127,7 +127,7 @@ export const metadata: Metadata = {
     title: 'Raikewal Tour & Travel | Car Rental with Driver',
     description:
       'Affordable car rental with driver for holiday packages, tour packages, family trips, temple tours, and outstation travel. Multiple vehicle options available. Custom packages for all your travel needs.',
-    images: [`${siteUrl}/images/logo2.png`],
+    images: [`${siteUrl}/images/logo-with-bg.png`],
   },
   category: 'Travel & Tourism',
   authors: [{ name: 'Raikewal Tour & Travel' }],

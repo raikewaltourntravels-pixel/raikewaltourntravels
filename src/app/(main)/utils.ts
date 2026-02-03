@@ -1,5 +1,5 @@
 export const whatsappNumber = '916262000219';
-export const siteUrl = 'https://www.raikewaltourntravels.com';
+export const siteUrl = 'https://raikewaltourntravels.com';
 
 export function createWhatsAppUrl(packageTitle: string): string {
   const base = `https://wa.me/${whatsappNumber}`;
