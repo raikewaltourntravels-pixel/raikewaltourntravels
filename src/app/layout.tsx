@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: 'Raikewal Tour & Travel',
   description:
-    'Avantika Travels offers affordable car rental with driver for holiday packages, tour packages, outstation trips, and city rides. Book SUVs, Sedans, MUVs, Minibuses and Buses for family tours, temple trips, hill station visits, wedding travel, corporate trips, and airport transfers. Custom holiday packages available.',
+    'Raikewal Tour & Travel offers affordable car rental with driver for holiday packages, tour packages, outstation trips, and city rides. Book SUVs, Sedans, MUVs, Minibuses and Buses for family tours, temple trips, hill station visits, wedding travel, corporate trips, and airport transfers. Custom holiday packages available.',
   keywords: [
     'Avantika Travels',
     'Avantika Travels car rental',
@@ -78,6 +78,10 @@ export const metadata: Metadata = {
     'airport transfer service',
     'railway station pickup',
     'hotel pickup service',
+    'raikewal',
+    'raikewal tour travels',
+    'tour travels',
+    'Raikewal Tour & Travel',
     'city sightseeing car',
     'local tour car rental',
     'intercity car rental',
