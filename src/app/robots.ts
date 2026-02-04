@@ -7,7 +7,12 @@ export default function robots(): MetadataRoute.Robots {
     rules: [
       {
         userAgent: 'Googlebot-Image',
-        disallow: '/',
+        disallow: '/images/',
+      },
+      {
+        userAgent: 'Googlebot',
+        allow: '/',
+        disallow: '/images/',
       },
       {
         userAgent: '*',
